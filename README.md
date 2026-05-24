@@ -1,7 +1,7 @@
 # SpaceX Falcon 9 First Stage Landing Prediction
 
 **IBM Data Science Professional Certificate — Applied Data Science Capstone**
-Author: Roberto Cortez · GitHub: [@rtez-tech](https://github.com/rtez-tech)
+Author: Roberto · GitHub: [@rtez-tech](https://github.com/rtez-tech)
 
 Predicting whether the Falcon 9 first stage will land successfully, so the true
 cost of a launch can be estimated. SpaceX advertises Falcon 9 launches at ~$62M
@@ -21,7 +21,7 @@ so predicting landings predicts cost.
 | `notebooks/7_spacex_dash_app.ipynb` | Builds the Plotly Dash dashboard (`spacex_dash_app.py`) |
 | `notebooks/8_spacex_predictive_analysis.ipynb` | Train, tune & evaluate four classifiers |
 | `spacex_dash_app.py` | Standalone Plotly Dash application |
-| `SpaceX_Capstone_Roberto_Cortez.pptx` | Final presentation (export to PDF for submission) |
+| `SpaceX_Capstone_.pptx` | Final presentation (export to PDF for submission) |
 
 ## Setup
 
